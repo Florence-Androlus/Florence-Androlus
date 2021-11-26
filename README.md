@@ -1,12 +1,14 @@
 <!--### Hi there 👋
 
-img src ="https://www.fan-services.fr/wp-content/uploads/2021/06/giphy.gif">
+
 
 ## Bonjour tous le monde! 👋
 
 dévellopeur php/symfony wordpress
 
 👨‍💼 Je suis dispo pour vous aider à dévelloper votre site ou une portion de code ! 
+
+img src ="https://www.fan-services.fr/wp-content/uploads/2021/06/giphy.gif">
 
 ## Languages and Tools:
 
