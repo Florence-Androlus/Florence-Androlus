@@ -15,7 +15,7 @@ Dommaine de compétence php/symfony/mysql - wordpress/elementor
 
 - 📫 Pour me contacter: contact@fan-services.fr
 
-Vous pouvez me trouver sur <a href="https://www.malt.fr/"><img alt="malt" width="46px" src="https://dam.malt.com/rebranding2020/malt-logo/malt-red"/></a> et <a href="https://florence-androlus.welovedevs.com" ><img alt="Welovedevs" width="26px" src="https://welovedevs.com/wp-content/uploads/2019/12/logo-menu-welovedevs-220bad.svg"/> Welovedevs </a>
+Vous pouvez me trouver sur <a href="https://www.codeur.com/-fan-services/"> Codeur.com </a> , <a href="https://www.malt.fr/profile/florenceandrolus"><img alt="malt" width="46px" src="https://dam.malt.com/rebranding2020/malt-logo/malt-red"/></a> ou encore <a href="https://florence-androlus.welovedevs.com" ><img alt="Welovedevs" width="26px" src="https://welovedevs.com/wp-content/uploads/2019/12/logo-menu-welovedevs-220bad.svg"/> Welovedevs </a>
 
 👨‍💼 Je suis dispo pour vous aider à dévelloper votre site ou une portion de code ! 
 
