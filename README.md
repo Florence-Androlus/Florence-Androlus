@@ -4,7 +4,7 @@
 
 Dévellopeur free-lance Fan-services https://fan-services.fr/
 
-Dommaine de compétence php/symfony - wordpress/elementor 
+Dommaine de compétence php/symfony/mysql - wordpress/elementor 
 
 - 📌 **Projet de fin de formation**: https://github.com/Florence-Androlus/O-Stella en tant de développeuse PHP/Wordpress, avec une team full wordpress.
 **Stack**: Wordpress, PHP, JavaScript, SQL, déploiement AWS EC2 
