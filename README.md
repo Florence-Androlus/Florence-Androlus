@@ -5,8 +5,12 @@
 dévellopeur php/symfony wordpress
 
 - 📌 **Projet de fin de formation**: https://github.com/Florence-Androlus/O-Stella en tant de développeuse PHP/Wordpress, avec une team full wordpress.
-**Stack**: Wordpress, PHP, JavaScript, SQL, déploiement AWS EC2 déployé maintenant sur ovh et visible sur https://fan-services.fr/OStella/
+**Stack**: Wordpress, PHP, JavaScript, SQL, déploiement AWS EC2 
+
+-Déployé maintenant sur ovh et visible sur https://fan-services.fr/OStella/
+
 - Certification Opquast Confirmé 775 pts <img align="left" alt="Visual Studio Code" width="26px" src="https://res.cloudinary.com/opquast/image/upload/w_150/v2/badges/MQW-V4-2020/fr/SVG/badge_confirme.svg"/>
+
 - 📫 Pour me contacter: contact@fan-services.fr
 
 👨‍💼 Je suis dispo pour vous aider à dévelloper votre site ou une portion de code ! 
