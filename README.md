@@ -2,20 +2,16 @@
 
 ## Bonjour tous le monde! 👋
 
-Dévellopeur free-lance Fan-services https://fan-develop.fr/
+Développeur freelance spécialisé dans les **fan-services** — [fan-develop.fr](https://fan-develop.fr/)
 
-Dommaine de compétence php/symfony/mysql - wordpress/elementor 
-
-- 📌 **Projet de fin de formation**: https://github.com/Florence-Androlus/O-Stella en tant de développeuse PHP/Wordpress, avec une team full wordpress.
-**Stack**: Wordpress, PHP, JavaScript, SQL, déploiement AWS EC2 
-
--Déployé maintenant sur ovh et visible sur https://fan-services.fr/OStella/
-
-- Certification Opquast Confirmé 775 pts <img align="left" alt="Visual Studio Code" width="26px" src="https://res.cloudinary.com/opquast/image/upload/w_150/v2/badges/MQW-V4-2020/fr/SVG/badge_confirme.svg"/>
+### 🛠️ Compétences & Stack
+* **Back-end & Frameworks :** PHP, JavaScript, MySQL
+* **CMS & Intégration :** WordPress (développement de plugins sur-mesure), WooCommerce, WCFM, Kadence, Elementor
+* **Déploiement & Qualité :** OVH, O2switch, certification **Opquast Confirmé (775 pts)**
 
 - 📫 Pour me contacter: contact@fan-develop.fr
 
-Vous pouvez me trouver sur <a href="https://www.codeur.com/-fan-services/" target="_blank"> Codeur.com </a> , <a href="https://www.malt.fr/profile/florenceandrolus" target="_blank"><img alt="malt" width="46px" src="https://dam.malt.com/rebranding2020/malt-logo/malt-red"/></a>, <a href="https://www.talent.io/candidates/327325864230/candidate_profile" target="_blank"><img alt="malt" width="46px" src="https://d1oxm68mlyfn64.cloudfront.net/assets/logo_dark-f4716d30e15199a9205fead75db691fd4f408ea89abc1132fa21ac666a8754b3.svg"/></a> ou encore <a href="https://florence-androlus.welovedevs.com" target="_blank"><img alt="Welovedevs" width="26px" src="https://welovedevs.com/wp-content/uploads/2019/12/logo-menu-welovedevs-220bad.svg"/> Welovedevs </a>
+Vous pouvez me trouver sur <a href="https://www.malt.fr/profile/florenceandrolus" target="_blank"><img alt="malt" width="46px" src="https://dam.malt.com/rebranding2020/malt-logo/malt-red"/></a>, <a href="https://www.talent.io/candidates/327325864230/candidate_profile" target="_blank"><img alt="malt" width="46px" src="https://d1oxm68mlyfn64.cloudfront.net/assets/logo_dark-f4716d30e15199a9205fead75db691fd4f408ea89abc1132fa21ac666a8754b3.svg"/></a> 
 
 👨‍💼 Je suis dispo pour vous aider à dévelloper votre site ou une portion de code ! 
 
